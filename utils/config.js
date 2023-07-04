@@ -1,1 +1,1 @@
-export const APP_URL = "nextprismacrud.vercel.app";
+export const APP_URL = "http://localhost:3000
